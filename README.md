@@ -2,9 +2,7 @@
 
 A Wallet UI Flutter project.
 
-<img src='screenshots/Screenshot_1604465010.png' heigth='300' width='250'> 
-<img src='screenshots/Screenshot_1604465016.png' heigth='300' width='250'>
-<img src='screenshots/Screenshot_1604465005.png' heigth='300' width='250'> 
+<img src='screenshots/Screenshot_1604465010.png' heigth='300' width='250'><img src='screenshots/Screenshot_1604465016.png' heigth='300' width='250'><img src='screenshots/Screenshot_1604465005.png' heigth='300' width='250'> 
 
 ## Getting Started
 
